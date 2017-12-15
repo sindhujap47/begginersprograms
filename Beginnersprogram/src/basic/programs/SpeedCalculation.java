@@ -4,6 +4,7 @@ public class SpeedCalculation {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//javaprogram for speed calculation
 		int distanceInKm=2;
 		int distanceInMeter = 1000 * distanceInKm;
 		int timeInHour = 2;
